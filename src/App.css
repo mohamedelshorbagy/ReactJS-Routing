@@ -1,0 +1,32 @@
+
+form {
+  margin-top: 15px;
+
+}
+.control {
+    width: 100%;
+    padding: 2% 1%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #d6d6d6;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: all ease-out 0.5s;
+    margin-bottom: 5%;
+    color: #FFF;
+
+}
+
+
+textarea {
+  resize: none;
+}
+
+
+.control:focus , .control:active {
+  outline: none;
+  border-bottom:1px solid #ff8b38;
+
+}
+
+
